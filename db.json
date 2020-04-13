@@ -25,11 +25,6 @@
             "postId": 1
         }
     ],
-    "message": {
-        "result": 0,
-        "resultNote": "Success",
-        "cmd": "queryMesList"
-    },
     "profile": {
         "name": "typicode"
     }
