@@ -36,7 +36,7 @@
                     "MESSAGE_TITEL": "标题",
                     "MESSAGE_DESC": "详情描述",
                     "CREATE_DATE": "发布时间",
-                    "readstatus": "0 未读， 其他已读",
+                    "readstatus": "0 未读， 其他已读"
                 }
             ]
         }
