@@ -25,7 +25,7 @@
             "postId": 1
         }
     ],
-    "messages": {
+    "message": {
         "result": 0,
         "resultNote": "Success",
         "cmd": "queryMesList"
